@@ -1,0 +1,11 @@
+aad0c664dcda62471908933552171d70 *DESCRIPTION
+926d0d225e811582a9383a0c715cef9c *NAMESPACE
+72c683ae65c1a80d7a460ae21d8491c4 *R/mcCullochPitts.R
+a8a39e17c195b9751da2465086f767e7 *R/neural-nets.R
+a368fbce5144d5dfe8d2381099d0386c *R/perceptron.R
+9fdd3ce3ad16c1f7a1a83cf8307fc879 *man/McCullochPitts-class.Rd
+5050a79a1e89e568acf094090b969fc8 *man/McCullochPittsLayer-class.Rd
+a9e4aa45ae22cd4f9fe3c0e3e885e9fc *man/NeuralNetwork-class.Rd
+d74dc39e61b06f0052e041a2ebb60837 *man/Perceptron-class.Rd
+c9f5dd81257e8c0a64f8224a28e25ed7 *man/PerceptronLayer-class.Rd
+30c4b97ed8c2df9cdcdcfcf6bad2dc7b *man/deep.Rd
